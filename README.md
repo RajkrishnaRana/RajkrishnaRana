@@ -1,5 +1,3 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Rajkrishna Rana</h1>
 <h3 align="center">Currently I am a B.Tech 3rd year Undergrad Student from India</h3>
 
