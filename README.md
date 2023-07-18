@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Web Development, DSA**
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, Node.js, Express.js, EJS, MongoDB**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript, Node.js, Express.js, EJS, MongoDB, ReactJS**
 
-- 📫 How to reach me **rajkrishnaranastudy@gmail.com**
+- 📫 How to reach me **rajkrishnaranajob@gmail.com**
 
 - ⚡ Fun fact **I am learning Electronics but intrested in IT**
 
